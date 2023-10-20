@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277995091751",
+    "project_id": "geocaching-c0671",
+    "storage_bucket": "geocaching-c0671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277995091751:android:edca5c8f5752d3d5725b02",
+        "android_client_info": {
+          "package_name": "com.example.geocaching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZ-5giqnp7I2YmDBMBi8r__oe1f3C4ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

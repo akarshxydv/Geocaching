@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shapebackground"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Unique Course Name"
+            android:textColor="@color/white"
+            android:padding="5dp"
+            android:background="@color/Navyblue"
+            android:textSize="30dp"
+            />
+        <EditText
+            android:layout_margin="15dp"
+            android:id="@+id/coursename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter name without space"
+            android:textColorHint="@color/black"
+            android:textSize="19dp"
+            android:padding="10dp"
+            android:background="@drawable/border"
+            android:textStyle="bold"
+            android:textColor="@color/Navyblue"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
